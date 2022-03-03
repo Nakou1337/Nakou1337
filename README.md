@@ -1,4 +1,8 @@
-Config = {}
+<p align="center">
+   <a href="https://discord.com/users/840935704724373565" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/840935704724373565?idleMessage=Mostly%20Online🟢" alt="Discord Presence" align="center">
+   </a>
+</p>
 
 Config.Locale = 'eng'
 
