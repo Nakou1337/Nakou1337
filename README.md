@@ -13,7 +13,4 @@
 </p>
 
 
-Config.Learning = {}
-
-
-Config.Discord = Nakou#5225
+Discord : Nakou#5456
